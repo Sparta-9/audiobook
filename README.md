@@ -9,3 +9,4 @@ there is some python module you must install in your code editor
 first of all create a csv file in your python code editor
 then you have a pdf file manimum 10 pages
 now you follow my code step by step you will get your audiobook
+in this python code you'll learn something new about packages
