@@ -1,5 +1,5 @@
 # audiobook
-pdf to audiobook creation by python
+pdf to audiobook by python
 
 
 in this project we'll discuss about how to make a audiobook by some python code.
